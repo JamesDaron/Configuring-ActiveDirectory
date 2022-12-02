@@ -24,7 +24,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 </p>
 <p>
-In this lab we will create two VMs in the same VNET. One will be a Domain Controller, the other will be a Client machine. We will change the DC to a static IP because its offering Active Directory services to the client machine. Client machine will be joined to the domain. We will control the DNS settings on the client machine, the client machine will use the DC as its DNS server. 
+In this lab we will create two VMs in the same virtual network. One will be designated as Domain Controller, the other shall be the client machine. The domain controller to a static IP because it is offering Active Directory services to the client machine. The client machine will be joined to the domain. From there, you will be able to control the DNS settings on the client machine. The client machine will use the domain controller as its own DNS server. 
 </p>
 <br />
 
