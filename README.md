@@ -59,7 +59,7 @@ From now on you can use Jane_admin as your administrator account. Moving on, you
 <br />
 </p>
 <p>
-Next you will need to join Client-1 to the domain. To do so, navigate to your system settings and go to about. To the right of the screen, select "Rename this PC (advanced)". From there select to change the domain. Enter "mydomain.com". Enter your credentials from mydomain.com\labuser. Your computer will restart and then client-1 will be a part of the mydomain.com
+Next you will need to join Client-1 to the domain. To do so, navigate to your system settings. To the right of the screen, select "Rename this PC (advanced)". From there select to change the domain. Enter "mydomain.com". Enter your credentials from mydomain.com\labuser. Your computer will restart and then client-1 will be a part of the mydomain.com
 </p>
 <br />
   <p>
